@@ -13,7 +13,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.5",
-        "mccaulay/ebay-sdk-php": "master"
+        "mccaulay/ebay-sdk-php": "dev-master"
     },
     "license": "MIT",
     "authors": [

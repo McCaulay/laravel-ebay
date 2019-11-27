@@ -1,5 +1,5 @@
 {
-    "name": "McCaulay/laravel-ebay",
+    "name": "hkonnet/laravel-ebay",
     "description": "This package is wrapper for php Ebay sdk for laravel to automate all the configurations and make the skd ready to use.",
     "type": "library",
     "keywords": [
@@ -13,7 +13,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.5",
-        "McCaulay/ebay-sdk-php": "dev-master"
+        "dst/ebay-sdk-php": "dev-master"
     },
     "license": "MIT",
     "authors": [

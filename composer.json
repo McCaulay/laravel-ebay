@@ -27,5 +27,11 @@
             "Hkonnet\\LaravelEbay\\": "src"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/McCaulay/laravel-ebay"
+        }
+    ],
     "minimum-stability": "stable"
 }
